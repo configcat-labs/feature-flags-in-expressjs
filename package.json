@@ -1,0 +1,22 @@
+{
+  "name": "feature-flags-in-expressjs",
+  "version": "1.0.0",
+  "description": "Feature Flags in Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/configcat-labs/feature-flags-in-expressjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/configcat-labs/feature-flags-in-expressjs/issues"
+  },
+  "homepage": "https://github.com/configcat-labs/feature-flags-in-expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
