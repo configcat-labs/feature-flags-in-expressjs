@@ -12,12 +12,12 @@ app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'pages/index.html'));
 })
 
-// Home
+// Top Matches
 app.get('/top-matches', (req, res) => {
   res.sendFile(path.join(__dirname, 'pages/top-matches.html'));
 })
 
-// Home
+// Not Available
 app.get('/not-available', (req, res) => {
   res.sendFile(path.join(__dirname, 'pages/not-available.html'));
 })
