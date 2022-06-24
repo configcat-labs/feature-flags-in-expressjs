@@ -3,11 +3,11 @@ A companion repo for "How to use Feature Flags in ExpressJS"
 
 ## About this sample app
 
-This app is a fictional dating app called Acme Dating built with the ExpressJS
+This app is a fictional dating app called **Acme Dating** built with ExpressJS.
 
 Here is what it looks like:
 
-<!-- TODO: Add app snapshot here -->
+![image](https://user-images.githubusercontent.com/74829200/175545478-133bd8b5-1a3a-41d6-b66d-d610004e8d69.png)
 
 ## How it works
 
@@ -33,7 +33,7 @@ npm install
 
 ```
 
-4. Start the server by running the below command. Then access the app at: [http://localhost:3000](http://localhost:3000)
+4. Start the server by running the below command. Then access the app at: [http://localhost:3000](http://localhost:3000).
 
 ```bash
 node server.js
@@ -42,7 +42,7 @@ node server.js
 
 ## Reference
 
-**ConfigCat** also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
+**ConfigCat** also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/).
 
 Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
 
