@@ -1,5 +1,5 @@
 # feature-flags-in-expressjs
-A companion repo for "How to use Feature Flags in ExpressJS" 
+A companion repo for "How to use Feature Flags in ExpressJS".
 
 ## About this sample app
 
@@ -46,3 +46,5 @@ node server.js
 
 Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
 
+
+Learn more about Express.js right [here](https://expressjs.com).
