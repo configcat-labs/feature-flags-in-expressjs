@@ -12,7 +12,7 @@ import usersRouter from './routes/users.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-var app = express();
+const app = express();
 
 // view engine setup
 app.set('views', join(__dirname, 'views'));

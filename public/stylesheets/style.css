@@ -178,3 +178,7 @@ table {
 .hero button:hover {
   filter: brightness(90%);
 }
+
+body {
+	background-color: #e7eaf6;
+}
