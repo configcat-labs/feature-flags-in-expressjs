@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node --env-file=.env ./bin/www"
   },
+  "type": "module",
   "dependencies": {
     "configcat-node": "^11.4.0",
     "cookie-parser": "^1.4.7",
